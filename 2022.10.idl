@@ -1,0 +1,9 @@
+namespace github
+{
+    [default_interface]
+    runtimeclass _2022 : Windows.UI.Xaml.Controls.Page
+    {
+        _2022();
+        Int32 MyProperty;
+    }
+}
